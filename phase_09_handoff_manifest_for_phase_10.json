@@ -1,0 +1,29 @@
+{
+  "completed_phase": "Phase 9 — Open-Ended Responses and NLP Analysis",
+  "next_phase": "Phase 10 — Final Results Integration and Thesis Reporting",
+  "phase_2_nlp_input": "C:\\Users\\User\\Desktop\\All\\data\\phase_02_open_ended_dataset_for_phase_09.csv",
+  "phase_2_nlp_input_sha256": "c796b93f57ace93fc06c7681c3c99707dc8556fc167cd6a200f0094b0f13e9d3",
+  "records_in_phase_2_nlp_dataset": 2500,
+  "all_response_rows": 5000,
+  "substantive_response_rows": 3057,
+  "text_columns": [
+    "other_influencing_factors",
+    "additional_suggestions"
+  ],
+  "selected_nmf_topics": 5,
+  "selected_text_clusters": 4,
+  "phase_5_cluster_path": "C:\\Users\\User\\Desktop\\All\\data\\phase_05_cluster_assignments.csv",
+  "phase_5_cluster_merge_coverage": 0.799149492966961,
+  "corpus_repetition_warning": true,
+  "manual_topic_review_required": true,
+  "sentiment_status": "Exploratory lexical indicator only",
+  "holdout_used": false,
+  "quality_checks_passed": true,
+  "primary_phase_10_table": "C:\\Users\\User\\Desktop\\All\\data\\phase_09_thesis_ready_findings.csv",
+  "topic_review_table": "C:\\Users\\User\\Desktop\\All\\data\\phase_09_manual_topic_review_template.csv",
+  "response_results_table": "C:\\Users\\User\\Desktop\\All\\data\\phase_09_substantive_responses_with_nlp_results.csv",
+  "statistical_tests_table": "C:\\Users\\User\\Desktop\\All\\data\\phase_09_statistical_tests.csv",
+  "visualisation_catalogue": "C:\\Users\\User\\Desktop\\All\\outputs\\Phase_09_Open_Ended_Responses_and_NLP_Analysis\\Section_09_10_Quality_Checks_Exports_and_Phase_10_Handoff\\Cell_09_10_03_Create_Visualisation_Catalogue_Handoff_and_ZIP\\tables\\09_10_03_visualisation_catalogue.csv",
+  "consolidated_workbook": "C:\\Users\\User\\Desktop\\All\\Phase_09_Consolidated_Reports.xlsx",
+  "generated_at": "2026-07-19T09:13:15.702294"
+}
